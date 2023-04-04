@@ -9,14 +9,34 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.10.0",
+    "@heroicons/react": "^2.0.17",
+    "@iconscout/react-unicons": "^2.0.2",
+    "@next/font": "^13.2.4",
     "@types/node": "18.15.11",
     "@types/react": "18.0.33",
     "@types/react-dom": "18.0.11",
+    "@types/react-router-dom": "^5.3.3",
     "eslint": "8.37.0",
     "eslint-config-next": "13.2.4",
+    "framer-motion": "^10.10.0",
     "next": "13.2.4",
+    "next-share": "^0.20.0",
+    "next-videos": "^1.4.1",
+    "postcss": "^8.4.21",
+    "prop-types": "^15.8.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.9",
+    "react-player": "^2.12.0",
+    "react-router-dom": "^6.10.0",
+    "react-simple-typewriter": "^5.0.1",
+    "react-social-icons": "^5.15.0",
+    "react-twitter-embed": "^4.0.4",
+    "swiper": "^9.2.0",
     "typescript": "5.0.3"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
   }
 }
